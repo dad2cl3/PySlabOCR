@@ -1,0 +1,14 @@
+{
+  "paths": {
+    "raw": "/Users/jason/Pictures/Raw Scans/",
+    "final": "/Users/jason/Pictures/Final Scans/"
+  },
+  "naming": {
+    "front_suffix": "-1-Front",
+    "back_suffix": "-2-Back",
+    "composite_suffix": "-3-Composite",
+    "square_suffix": "-4-Square"
+  },
+  "image_ext": ".png",
+  "default_cert": "00000000"
+}
